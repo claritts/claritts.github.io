@@ -19,6 +19,7 @@ Recent text-to-speech (TTS) models have synthesized remarkably natural speech fo
         </td>
         <td class="text">
             <center>English speaker</center>
+	</td>
     </tr>
     <tr>
         <td class="first-col">Ground truth</td>
@@ -79,7 +80,7 @@ Recent text-to-speech (TTS) models have synthesized remarkably natural speech fo
         </td>
         <td class="text">
             <center>English speaker</center>
-    </tr>
+	</td>
     </tr>
     <tr>
         <td class="first-col">Ground truth</td>
@@ -139,6 +140,7 @@ Recent text-to-speech (TTS) models have synthesized remarkably natural speech fo
         </td>
         <td colspan="2">
             <center>English speaker</center>
+	</td>
     </tr>
     <tr>
         <td class="first-col">Ground truth</td>
