@@ -67,7 +67,6 @@ Recent text-to-speech (TTS) models have synthesized remarkably natural speech fo
     </tr>
 </table>
 
-
 <h3>Cross-lingual TTS samples</h3>
 
 <table style="margin-left: auto; margin-right: auto;">
@@ -95,6 +94,7 @@ Recent text-to-speech (TTS) models have synthesized remarkably natural speech fo
         <td class="text">
             <center>추운 겨울 밤, 가족들이 <br> 벽난로 주변에 모였습니다. <br> (On a cold winter night, families <br> gathered around the fireplace.)</center>
         </td>
+    </tr>
     <tr>
         <td class="first-col">MS-iSTFT-VITS</td>
         <td><audio controls="" preload="none"><source src="./assets/samples/2_cross/msvits_aihub_en_0002_53.wav"></audio></td>
@@ -126,7 +126,6 @@ Recent text-to-speech (TTS) models have synthesized remarkably natural speech fo
         <td><audio controls="" preload="none"><source src="./assets/samples/2_cross/bdpspk_libri_ko_949_29.wav"></audio></td>
     </tr>
 </table>
-
 
 <h3>Code-mixed TTS samples</h3>
 
@@ -163,6 +162,7 @@ Recent text-to-speech (TTS) models have synthesized remarkably natural speech fo
         <td class="text">
             <center>음악을 재생할 수 있는 매체로는 Youtube Music, <br> Apple CarPlay가 있어요. <br> (Some of the media that can play music include <br> YouTube Music and Apple CarPlay.)</center>
         </td>
+    </tr>
     <tr>
         <td class="first-col">MS-iSTFT-VITS</td>
         <td><audio controls="" preload="none"><source src="./assets/samples/3_mixed/msvits_aihub_bi_0002_9.wav"></audio></td>
