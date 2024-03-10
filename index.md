@@ -167,42 +167,42 @@ Recent text-to-speech (TTS) models have synthesized remarkably natural speech fo
         <td class="first-col">MS-iSTFT-VITS</td>
         <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/msvits_aihub_bi_0002_9.wav"></audio></center></td>
         <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/msvits_aihub_bi_1193_12.wav"></audio></center></td>
-	<td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/msvits_aihub_bi_6741_12.wav"></audio></center></td>
-	<td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/msvits_aihub_bi_8176_9.wav"></audio></center></td>
+	<td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/msvits_libri_bi_6741_12.wav"></audio></center></td>
+	<td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/msvits_libri_bi_8176_9.wav"></audio></center></td>
     </tr>
     <tr>
         <td class="first-col">YourTTS</td>
         <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/yourtts_aihub_bi_0002_9.wav"></audio></center></td>
-        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/yourtts_libri_bi_1193_12.wav"></audio></center></td>
-        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/yourtts_aihub_bi_6741_12.wav"></audio></center></td>
+        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/yourtts_aihub_bi_1193_12.wav"></audio></center></td>
+        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/yourtts_libri_bi_6741_12.wav"></audio></center></td>
         <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/yourtts_libri_bi_8176_9.wav"></audio></center></td>
     </tr>
     <tr>
         <td class="first-col">SANE-TTS</td>
         <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/sanetts_aihub_bi_0002_9.wav"></audio></center></td>
-        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/sanetts_libri_bi_1193_12.wav"></audio></center></td>
-        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/sanetts_aihub_bi_6741_12.wav"></audio></center></td>
+        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/sanetts_aihub_bi_1193_12.wav"></audio></center></td>
+        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/sanetts_libri_bi_6741_12.wav"></audio></center></td>
         <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/sanetts_libri_bi_8176_9.wav"></audio></center></td>
     </tr>
     <tr>
         <td class="first-col">ClariTTS(Proposed)</td>
         <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/durrand_aihub_bi_0002_9.wav"></audio></center></td>
-        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/durrand_libri_bi_1193_12.wav"></audio></center></td>
-        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/durrand_aihub_bi_6741_12.wav"></audio></center></td>
+        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/durrand_aihub_bi_1193_12.wav"></audio></center></td>
+        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/durrand_libri_bi_6741_12.wav"></audio></center></td>
         <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/durrand_libri_bi_8176_9.wav"></audio></center></td>
     </tr>
     <tr>
         <td class="first-col">w/o cross-speaker <br> duration loss</td>
         <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/attdpspk_aihub_bi_0002_9.wav"></audio></center></td>
-        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/attdpspk_libri_bi_1193_12.wav"></audio></center></td>
-        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/attdpspk_aihub_bi_6741_12.wav"></audio></center></td>
+        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/attdpspk_aihub_bi_1193_12.wav"></audio></center></td>
+        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/attdpspk_libri_bi_6741_12.wav"></audio></center></td>
         <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/attdpspk_libri_bi_8176_9.wav"></audio></center></td>
     </tr>
     <tr>
         <td class="first-col">w/o FRN, cross-speaker <br> duration loss</td>
         <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/bdpspk_aihub_bi_0002_9.wav"></audio></center></td>
-        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/bdpspk_libri_bi_1193_12.wav"></audio></center></td>
-        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/bdpspk_aihub_bi_6741_12.wav"></audio></center></td>
+        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/bdpspk_aihub_bi_1193_12.wav"></audio></center></td>
+        <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/bdpspk_libri_bi_6741_12.wav"></audio></center></td>
         <td><center><audio controls="" preload="none"><source src="./assets/samples/3_mixed/bdpspk_libri_bi_8176_9.wav"></audio></center></td>
     </tr>
 </table>
